@@ -26,4 +26,4 @@ This project focuses on visualization and analysis tool for various algorithms, 
 🔹 Expanding into Machine Learning model visualizations.  
 🔹 Enhancing UI with animations and better analytics.  
 
-### This project is a work in progress, and I plan to improve it continuously. Contributions, suggestions, and ideas are always welcome! 🚀
+## This project is a work in progress, and I plan to improve it continuously. Contributions, suggestions, and ideas are always welcome! 🚀
